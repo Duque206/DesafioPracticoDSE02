@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7xdKEuutnB6yPBUAurZv7Xp/cr7/9LAgdRI1mR/DWy8=",
+  "Source": "APIGateway_Desafio2",
+  "BasePath": "_content/APIGateway_Desafio2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
